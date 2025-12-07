@@ -1,0 +1,51 @@
+========================================
+ПРОМПТ ДЛЯ GOOGLE COLAB (СКОПИРУЙ ВСЁ)
+========================================
+
+ЯЧЕЙКА 1: Загрузка датасета
+----------------------------------------
+!apt-get update
+!apt-get install -y git
+!git clone https://github.com/Danchouvzv/grader-dataset.git
+import os
+os.chdir('/content/grader-dataset')
+!ls -la dataset_versions/v1.1/
+
+
+ЯЧЕЙКА 2: Установка зависимостей
+----------------------------------------
+!pip install torch transformers scikit-learn pandas numpy matplotlib tqdm
+import torch
+print(f"PyTorch: {torch.__version__}")
+print(f"CUDA: {torch.cuda.is_available()}")
+
+
+ЯЧЕЙКА 3: Загрузка скрипта обучения
+----------------------------------------
+!cp scripts/train_model.py train_model_colab.py
+# Или если скрипта нет - используй полный код из docs/TRAINING_GUIDE_COLAB.md
+
+
+ЯЧЕЙКА 4: Запуск обучения
+----------------------------------------
+import os
+os.makedirs('models', exist_ok=True)
+!python train_model_colab.py
+
+
+ЯЧЕЙКА 5: Результаты
+----------------------------------------
+import json
+with open('models/training_results.json', 'r') as f:
+    results = json.load(f)
+metrics = results['final_metrics']
+print(f"MAE Overall: {metrics['mae'][0]:.3f}")
+print(f"Correlation: {metrics['correlations'][0]:.3f}")
+
+
+ЯЧЕЙКА 6: Скачать модель
+----------------------------------------
+from google.colab import files
+files.download('models/ielts_model_best.pt')
+files.download('models/training_results.json')
+
