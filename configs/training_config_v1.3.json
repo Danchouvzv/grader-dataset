@@ -1,0 +1,59 @@
+{
+  "dataset_version": "v1.3",
+  "splits": {
+    "train": {
+      "file": "dataset_versions/v1.3/train.csv",
+      "count": 3376,
+      "weighted_count": 430,
+      "inconsistent_count": 1045
+    },
+    "val": {
+      "file": "dataset_versions/v1.3/val.csv",
+      "count": 398
+    },
+    "test": {
+      "file": "dataset_versions/v1.3/test.csv",
+      "count": 490
+    }
+  },
+  "targets": {
+    "main": "target_band_overall",
+    "subscores": [
+      "target_band_fc",
+      "target_band_lr",
+      "target_band_gra",
+      "target_band_pr"
+    ]
+  },
+  "features": {
+    "text": "answer_text",
+    "metadata": [
+      "part",
+      "duration_sec",
+      "quality_flag",
+      "source_type"
+    ]
+  },
+  "training": {
+    "use_sample_weights": true,
+    "weight_column": "sample_weight",
+    "multi_task": true,
+    "calibration": {
+      "round_to_half_band": true,
+      "threshold": 0.5
+    }
+  },
+  "metrics": {
+    "regression": [
+      "mae",
+      "mse",
+      "rmse"
+    ],
+    "classification": [
+      "accuracy_within_0.5",
+      "accuracy_within_1.0"
+    ],
+    "per_part": true,
+    "per_band_group": true
+  }
+}

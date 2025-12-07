@@ -1,0 +1,13 @@
+{
+  "total_answers": 4264,
+  "train_count": 3376,
+  "val_count": 398,
+  "test_count": 490,
+  "train_ratio": 0.7917448405253283,
+  "val_ratio": 0.09333958724202626,
+  "test_ratio": 0.1149155722326454,
+  "total_sessions": 269,
+  "train_sessions": 212,
+  "val_sessions": 24,
+  "test_sessions": 33
+}
