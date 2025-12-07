@@ -89,33 +89,10 @@ def generate_part3_questions() -> list:
     return questions
 
 def generate_part3_answer(question: str, overall: float, fc: float, lr: float, gra: float, pr: float) -> tuple:
-    """Генерирует ответ для Part 3 в зависимости от уровня"""
-    duration = random.randint(35, 65)
-    
-    if overall <= 4.0:
-        # Низкий уровень
-        answer = f"I think... it is important. Many people... they think about this. It is good... but also... there are problems. I think we need to... do something. It is difficult question."
-        
-    elif overall <= 5.0:
-        # Средний-низкий уровень
-        answer = f"I think this is complex question. On one hand, there are good things. For example, it helps people and makes life better. But on other hand, there are problems too. People worry about this. I think we need to find balance. It is not easy, but I think it is possible."
-        
-    elif overall <= 6.0:
-        # Средний уровень
-        answer = f"I think this is a complex issue that has multiple aspects. On one hand, there are clear benefits - it can improve efficiency, create opportunities, and enhance quality of life. However, there are also significant challenges, such as potential negative impacts on certain groups or unintended consequences. I believe the key is finding a balanced approach that maximizes benefits while minimizing harm. This requires careful consideration of different perspectives and long-term implications. Ultimately, I think it's about making informed decisions rather than simply accepting or rejecting change."
-        
-    elif overall <= 7.0:
-        # Высокий уровень
-        answer = f"This is a multifaceted issue that requires careful consideration of various factors. On one hand, there are compelling arguments for the benefits it can bring - increased efficiency, enhanced opportunities, and improved quality of life for many. However, we must also acknowledge the potential drawbacks, including unintended consequences, unequal distribution of benefits, and challenges to existing systems. I think the most effective approach involves recognizing that this isn't a binary choice, but rather requires nuanced solutions that can adapt to different contexts. This means considering the perspectives of various stakeholders, understanding long-term implications, and being willing to adjust strategies as we learn more. I believe that thoughtful, evidence-based approaches that prioritize both individual wellbeing and collective good are most likely to succeed."
-        
-    else:
-        # Очень высокий уровень
-        answer = f"This represents one of the most pressing and complex challenges of our time, requiring us to navigate multiple competing priorities and perspectives. On one hand, there are undeniable benefits - the potential for increased efficiency, expanded opportunities, and enhanced quality of life. However, we must also grapple with significant concerns, including potential unintended consequences, questions of equity and access, and the ways in which rapid change can disrupt existing social and economic structures. I think the fundamental challenge is recognizing that simplistic solutions are inadequate - we need approaches that can accommodate complexity, adapt to changing circumstances, and balance multiple legitimate interests. This requires not just technical solutions, but also thoughtful consideration of ethical implications, long-term sustainability, and the ways in which different groups will be affected. I believe that the most promising path forward involves creating frameworks that can evolve, incorporating diverse perspectives, and maintaining a commitment to both innovation and responsibility."
-    
-    # Применяем Error Injection
-    answer = inject_errors_by_subscores(answer, fc, lr, gra, pr)
-    
-    return answer, duration
+    """Генерирует ответ для Part 3 с улучшенной вариативностью"""
+    # Используем улучшенную версию
+    from generate_part3_expansion_v2 import generate_part3_answer_v2
+    return generate_part3_answer_v2(question, overall, fc, lr, gra, pr)
 
 def main():
     print("=" * 70)
