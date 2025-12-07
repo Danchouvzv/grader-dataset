@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Models
+models/*.pt
+models/*.pth
+models/*.ckpt
+!models/.gitkeep
+
+# Logs
+logs/*.txt
+!logs/.gitkeep
+
+# Data (не коммитим большие CSV)
+*.csv
+!dataset_versions/**/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
