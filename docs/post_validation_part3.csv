@@ -1,0 +1,1227 @@
+answer_id,overall,word_count,complex_sentences,academic_phrases,severity,issues
+ans_005,7.0,60,1,0,ok,
+ans_009,6.0,54,0,0,ok,
+ans_013,7.0,91,1,0,suspicious,"Too long (91 words, looks like essay)"
+ans_016,6.0,40,0,0,ok,
+ans_020,6.0,85,1,0,suspicious,"Too long (85 words, looks like essay)"
+ans_151,4.0,10,0,0,suspicious,Too short (10 words)
+ans_152,4.5,13,0,0,suspicious,Too short (13 words)
+ans_153,4.0,15,0,0,suspicious,Too short (15 words)
+ans_154,5.0,17,0,0,suspicious,Too short (17 words)
+ans_155,5.5,21,0,0,ok,
+ans_156,5.5,23,0,0,ok,
+ans_157,5.0,24,0,0,ok,
+ans_158,5.5,23,0,0,ok,
+ans_159,5.5,24,0,0,ok,
+ans_160,5.0,20,0,0,ok,
+ans_161,6.0,56,0,0,ok,
+ans_162,6.0,48,0,0,ok,
+ans_163,6.5,59,0,0,ok,
+ans_164,6.0,56,0,0,ok,
+ans_165,6.5,59,0,0,ok,
+ans_166,6.5,61,0,0,ok,
+ans_167,6.5,69,0,0,ok,
+ans_168,6.5,70,0,0,ok,
+ans_169,7.0,58,0,0,ok,
+ans_170,7.0,59,0,0,ok,
+ans_171,7.0,69,0,0,ok,
+ans_172,7.5,74,0,0,ok,
+ans_173,7.0,70,0,0,ok,
+ans_174,7.5,75,0,0,ok,
+ans_175,8.0,78,0,0,ok,
+ans_176,8.0,90,0,0,suspicious,"Too long (90 words, looks like essay)"
+ans_177,8.0,86,0,0,suspicious,"Too long (86 words, looks like essay)"
+ans_178,8.0,85,0,0,suspicious,"Too long (85 words, looks like essay)"
+ans_179,8.5,84,0,0,suspicious,"Too long (84 words, looks like essay)"
+ans_180,8.5,101,0,0,suspicious,"Too long (101 words, looks like essay)"
+ans_181,5.0,24,0,0,ok,
+ans_182,5.5,25,0,0,ok,
+ans_183,4.5,28,0,0,ok,
+ans_184,5.5,29,0,0,ok,
+ans_185,5.0,30,0,0,ok,
+ans_186,7.0,69,0,0,ok,
+ans_187,7.0,72,0,0,ok,
+ans_188,7.5,75,0,0,ok,
+ans_189,7.5,79,0,0,ok,
+ans_190,8.0,85,0,0,suspicious,"Too long (85 words, looks like essay)"
+ans_191,5.0,30,0,0,ok,
+ans_192,7.5,75,0,0,ok,
+ans_193,7.5,84,0,0,suspicious,"Too long (84 words, looks like essay)"
+ans_194,5.5,28,0,0,ok,
+ans_195,7.0,77,0,0,ok,
+ans_196,8.0,82,0,0,suspicious,"Too long (82 words, looks like essay)"
+ans_197,5.0,24,0,0,ok,
+ans_198,8.0,77,0,0,ok,
+ans_199,5.5,35,0,0,ok,
+ans_200,8.5,101,0,0,suspicious,"Too long (101 words, looks like essay)"
+ans_221,6.0,86,0,0,suspicious,"Too long (86 words, looks like essay)"
+ans_222,6.0,97,1,0,suspicious,"Too long (97 words, looks like essay)"
+ans_223,6.0,94,0,0,suspicious,"Too long (94 words, looks like essay)"
+ans_224,6.0,97,0,0,suspicious,"Too long (97 words, looks like essay)"
+ans_225,6.0,94,0,0,suspicious,"Too long (94 words, looks like essay)"
+ans_226,6.0,98,0,0,suspicious,"Too long (98 words, looks like essay)"
+ans_227,6.0,107,0,0,suspicious,"Too long (107 words, looks like essay)"
+ans_228,6.0,98,0,0,suspicious,"Too long (98 words, looks like essay)"
+ans_229,6.0,114,0,0,suspicious,"Too long (114 words, looks like essay)"
+ans_230,6.0,105,0,0,suspicious,"Too long (105 words, looks like essay)"
+ans_235,6.0,73,0,0,ok,
+ans_240,6.0,75,0,0,ok,
+ans_245,6.0,71,0,0,ok,
+ans_250,6.0,74,0,0,ok,
+ans_255,7.0,156,0,0,suspicious,"Too long (156 words, looks like essay)"
+ans_260,7.0,143,2,0,suspicious,"Too long (143 words, looks like essay)"
+ans_265,7.0,144,1,0,suspicious,"Too long (144 words, looks like essay)"
+ans_270,7.0,158,3,0,suspicious,"Too long (158 words, looks like essay); Too many complex sentences (3)"
+ans_291,7.5,185,2,0,suspicious,"Too long (185 words, looks like essay)"
+ans_292,7.0,163,2,0,suspicious,"Too long (163 words, looks like essay)"
+ans_293,7.5,186,3,0,suspicious,"Too long (186 words, looks like essay); Too many complex sentences (3)"
+ans_294,7.0,178,2,0,suspicious,"Too long (178 words, looks like essay)"
+ans_295,7.5,182,2,0,suspicious,"Too long (182 words, looks like essay)"
+ans_296,7.0,171,1,0,suspicious,"Too long (171 words, looks like essay)"
+ans_297,7.5,184,2,0,suspicious,"Too long (184 words, looks like essay)"
+ans_298,7.0,197,1,0,suspicious,"Too long (197 words, looks like essay)"
+ans_299,7.5,184,2,0,suspicious,"Too long (184 words, looks like essay)"
+ans_300,7.0,202,2,0,suspicious,"Too long (202 words, looks like essay)"
+ans_1401,3.5,30,0,0,ok,
+ans_1402,3.5,30,0,0,ok,
+ans_1403,3.5,30,0,0,ok,
+ans_1404,3.5,30,0,0,ok,
+ans_1405,3.5,30,0,0,ok,
+ans_1406,3.5,30,0,0,ok,
+ans_1407,3.5,30,0,0,ok,
+ans_1408,3.5,30,0,0,ok,
+ans_1409,4.0,30,0,0,ok,
+ans_1410,4.0,30,0,0,ok,
+ans_1411,4.0,30,0,0,ok,
+ans_1412,4.0,30,0,0,ok,
+ans_1413,4.0,30,0,0,ok,
+ans_1414,4.0,30,0,0,ok,
+ans_1415,4.0,30,0,0,ok,
+ans_1416,4.0,30,0,0,ok,
+ans_1417,4.0,30,0,0,ok,
+ans_1418,4.0,30,0,0,ok,
+ans_1419,4.0,30,0,0,ok,
+ans_1420,4.0,30,0,0,ok,
+ans_1421,4.0,30,0,0,ok,
+ans_1422,4.0,30,0,0,ok,
+ans_1423,4.0,30,0,0,ok,
+ans_1424,4.0,30,0,0,ok,
+ans_1425,4.0,30,0,0,ok,
+ans_1426,4.0,30,0,0,ok,
+ans_1427,4.0,30,0,0,ok,
+ans_1428,4.0,30,0,0,ok,
+ans_1429,4.0,30,0,0,ok,
+ans_1430,4.0,30,0,0,ok,
+ans_1431,4.0,30,0,0,ok,
+ans_1432,4.0,30,0,0,ok,
+ans_1433,4.0,30,0,0,ok,
+ans_1434,4.0,30,0,0,ok,
+ans_1435,4.0,30,0,0,ok,
+ans_1436,4.0,30,0,0,ok,
+ans_1437,4.0,30,0,0,ok,
+ans_1438,4.0,30,0,0,ok,
+ans_1439,4.5,42,0,0,ok,
+ans_1440,4.5,47,0,0,ok,
+ans_1441,4.5,33,0,0,ok,
+ans_1442,4.5,32,0,0,ok,
+ans_1443,4.5,29,0,0,ok,
+ans_1444,4.5,29,0,0,ok,
+ans_1445,4.5,35,0,0,ok,
+ans_1446,4.5,30,0,0,ok,
+ans_1447,4.5,36,0,0,ok,
+ans_1448,4.5,36,0,0,ok,
+ans_1449,4.5,29,0,0,ok,
+ans_1450,4.5,54,0,0,ok,
+ans_1451,4.5,52,0,0,ok,
+ans_1452,4.5,45,0,0,ok,
+ans_1453,4.5,62,0,0,ok,
+ans_1454,5.0,54,0,0,ok,
+ans_1455,5.0,31,0,0,ok,
+ans_1456,5.0,41,0,0,ok,
+ans_1457,5.0,24,0,0,ok,
+ans_1458,5.0,54,0,0,ok,
+ans_1459,5.0,36,0,0,ok,
+ans_1460,5.0,37,0,0,ok,
+ans_1461,5.0,54,0,0,ok,
+ans_1462,5.0,35,0,0,ok,
+ans_1463,5.0,36,0,0,ok,
+ans_1464,5.0,41,0,0,ok,
+ans_1465,5.0,35,0,0,ok,
+ans_1466,5.0,36,0,0,ok,
+ans_1467,5.0,30,0,0,ok,
+ans_1468,5.0,30,0,0,ok,
+ans_1469,5.0,34,0,0,ok,
+ans_1470,5.0,29,0,0,ok,
+ans_1471,5.0,29,0,0,ok,
+ans_1472,5.0,30,0,0,ok,
+ans_1473,5.0,29,0,0,ok,
+ans_1474,5.0,14,0,0,suspicious,Too short (14 words)
+ans_1475,5.0,33,0,0,ok,
+ans_1476,5.0,34,0,0,ok,
+ans_1477,5.0,34,0,0,ok,
+ans_1478,5.0,37,0,0,ok,
+ans_1479,5.0,33,0,0,ok,
+ans_1480,5.0,37,0,0,ok,
+ans_1481,5.0,29,0,0,ok,
+ans_1482,5.0,44,0,0,ok,
+ans_1483,5.0,32,0,0,ok,
+ans_1484,5.5,45,0,0,ok,
+ans_1485,5.5,62,0,0,ok,
+ans_1486,5.5,61,0,0,ok,
+ans_1487,5.5,46,0,0,ok,
+ans_1488,5.5,37,0,0,ok,
+ans_1489,5.5,45,0,0,ok,
+ans_1490,5.5,39,0,0,ok,
+ans_1491,5.5,43,0,0,ok,
+ans_1492,5.5,38,0,0,ok,
+ans_1493,5.5,45,0,0,ok,
+ans_1494,5.5,36,0,0,ok,
+ans_1495,5.5,38,0,0,ok,
+ans_1496,5.5,37,0,0,ok,
+ans_1497,5.5,42,0,0,ok,
+ans_1498,5.5,46,0,0,ok,
+ans_1499,5.5,44,0,0,ok,
+ans_1500,5.5,43,0,0,ok,
+ans_1501,5.5,38,0,0,ok,
+ans_1502,5.5,61,0,0,ok,
+ans_1503,5.5,64,0,0,ok,
+ans_1504,5.5,38,0,0,ok,
+ans_1505,5.5,60,0,0,ok,
+ans_1506,5.5,39,0,0,ok,
+ans_1507,5.5,46,0,0,ok,
+ans_1508,5.5,40,0,0,ok,
+ans_1509,5.5,39,0,0,ok,
+ans_1510,5.5,42,0,0,ok,
+ans_1511,5.5,38,0,0,ok,
+ans_1512,5.5,38,0,0,ok,
+ans_1513,5.5,45,0,0,ok,
+ans_1514,5.5,41,0,0,ok,
+ans_1515,5.5,46,0,0,ok,
+ans_1516,5.5,43,0,0,ok,
+ans_1517,5.5,42,0,0,ok,
+ans_1518,5.5,41,0,0,ok,
+ans_1519,5.5,43,0,0,ok,
+ans_1520,5.5,37,0,0,ok,
+ans_1521,5.5,40,0,0,ok,
+ans_1522,5.5,55,0,0,ok,
+ans_1523,5.5,61,0,0,ok,
+ans_1524,6.0,62,0,0,ok,
+ans_1525,6.0,59,0,0,ok,
+ans_1526,6.0,47,0,0,ok,
+ans_1527,6.0,54,0,0,ok,
+ans_1528,6.0,59,0,0,ok,
+ans_1529,6.0,53,0,0,ok,
+ans_1530,6.0,50,0,0,ok,
+ans_1531,6.0,53,0,0,ok,
+ans_1532,6.0,62,0,0,ok,
+ans_1533,6.0,60,0,0,ok,
+ans_1534,6.0,62,0,0,ok,
+ans_1535,6.0,61,0,0,ok,
+ans_1536,6.0,60,0,0,ok,
+ans_1537,6.0,65,0,0,ok,
+ans_1538,6.0,61,0,0,ok,
+ans_1539,6.0,48,0,0,ok,
+ans_1540,6.0,48,0,0,ok,
+ans_1541,6.0,62,0,0,ok,
+ans_1542,6.0,53,0,0,ok,
+ans_1543,6.0,60,0,0,ok,
+ans_1544,6.0,53,0,0,ok,
+ans_1545,6.0,60,0,0,ok,
+ans_1546,6.0,61,0,0,ok,
+ans_1547,6.0,62,0,0,ok,
+ans_1548,6.0,62,0,0,ok,
+ans_1549,6.0,60,0,0,ok,
+ans_1550,6.0,47,0,0,ok,
+ans_1551,6.0,64,0,0,ok,
+ans_1552,6.0,59,0,0,ok,
+ans_1553,6.0,46,0,0,ok,
+ans_1554,6.0,62,0,0,ok,
+ans_1555,6.0,59,0,0,ok,
+ans_1556,6.0,62,0,0,ok,
+ans_1557,6.0,54,0,0,ok,
+ans_1558,6.0,59,0,0,ok,
+ans_1559,6.0,61,0,0,ok,
+ans_1560,6.0,55,0,0,ok,
+ans_1561,6.0,61,0,0,ok,
+ans_1562,6.0,54,0,0,ok,
+ans_1563,6.0,62,0,0,ok,
+ans_1564,6.0,46,0,0,ok,
+ans_1565,6.0,59,0,0,ok,
+ans_1566,6.0,61,0,0,ok,
+ans_1567,6.0,49,0,0,ok,
+ans_1568,6.0,47,0,0,ok,
+ans_1569,6.0,53,0,0,ok,
+ans_1570,6.0,47,0,0,ok,
+ans_1571,6.0,65,0,0,ok,
+ans_1572,6.0,54,0,0,ok,
+ans_1573,6.0,50,0,0,ok,
+ans_1574,6.0,62,0,0,ok,
+ans_1575,6.0,53,0,0,ok,
+ans_1576,6.0,53,0,0,ok,
+ans_1577,6.0,56,0,0,ok,
+ans_1578,6.0,47,0,0,ok,
+ans_1579,6.0,63,0,0,ok,
+ans_1580,6.0,47,0,0,ok,
+ans_1581,6.0,56,0,0,ok,
+ans_1582,6.0,61,0,0,ok,
+ans_1583,6.0,52,0,0,ok,
+ans_1584,6.0,52,0,0,ok,
+ans_1585,6.0,60,0,0,ok,
+ans_1586,6.0,62,0,0,ok,
+ans_1587,6.0,48,0,0,ok,
+ans_1588,6.0,50,0,0,ok,
+ans_1589,6.0,53,0,0,ok,
+ans_1590,6.0,49,0,0,ok,
+ans_1591,6.0,62,0,0,ok,
+ans_1592,6.0,60,0,0,ok,
+ans_1593,6.0,60,0,0,ok,
+ans_1594,6.0,53,0,0,ok,
+ans_1595,6.0,60,0,0,ok,
+ans_1596,6.0,62,0,0,ok,
+ans_1597,6.0,62,0,0,ok,
+ans_1598,6.0,53,0,0,ok,
+ans_1599,6.0,62,0,0,ok,
+ans_1600,6.0,62,0,0,ok,
+ans_1601,6.0,54,0,0,ok,
+ans_1602,6.0,62,0,0,ok,
+ans_1603,6.0,59,0,0,ok,
+ans_1604,6.0,60,0,0,ok,
+ans_1605,6.0,46,0,0,ok,
+ans_1606,6.0,65,0,0,ok,
+ans_1607,6.0,46,0,0,ok,
+ans_1608,6.0,51,0,0,ok,
+ans_1609,6.0,47,0,0,ok,
+ans_1610,6.0,62,0,0,ok,
+ans_1611,6.0,62,0,0,ok,
+ans_1612,6.0,49,0,0,ok,
+ans_1613,6.0,48,0,0,ok,
+ans_1614,6.0,47,0,0,ok,
+ans_1615,6.0,55,0,0,ok,
+ans_1616,6.0,61,0,0,ok,
+ans_1617,6.0,59,0,0,ok,
+ans_1618,6.0,62,0,0,ok,
+ans_1619,6.0,54,0,0,ok,
+ans_1620,6.0,46,0,0,ok,
+ans_1621,6.0,49,0,0,ok,
+ans_1622,6.0,60,0,0,ok,
+ans_1623,6.0,49,0,0,ok,
+ans_1624,6.5,76,1,0,ok,
+ans_1625,6.5,70,1,0,ok,
+ans_1626,6.5,85,1,1,suspicious,"Too long (85 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1627,6.5,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1628,6.5,68,1,0,ok,
+ans_1629,6.5,74,1,0,ok,
+ans_1630,6.5,68,1,0,ok,
+ans_1631,6.5,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1632,6.5,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1633,6.5,71,1,0,ok,
+ans_1634,6.5,71,1,0,ok,
+ans_1635,6.5,74,1,0,ok,
+ans_1636,6.5,71,1,0,ok,
+ans_1637,6.5,68,1,0,ok,
+ans_1638,6.5,75,1,0,ok,
+ans_1639,6.5,78,1,0,ok,
+ans_1640,6.5,74,1,0,ok,
+ans_1641,6.5,75,1,0,ok,
+ans_1642,6.5,85,1,1,suspicious,"Too long (85 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1643,6.5,57,0,0,ok,
+ans_1644,6.5,68,1,0,ok,
+ans_1645,6.5,67,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1646,6.5,67,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1647,6.5,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1648,6.5,74,1,0,ok,
+ans_1649,6.5,67,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1650,6.5,74,1,0,ok,
+ans_1651,6.5,62,1,0,ok,
+ans_1652,6.5,68,1,0,ok,
+ans_1653,6.5,75,1,0,ok,
+ans_1654,6.5,61,1,0,ok,
+ans_1655,6.5,61,1,0,ok,
+ans_1656,6.5,75,1,0,ok,
+ans_1657,6.5,58,0,0,ok,
+ans_1658,6.5,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1659,6.5,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1660,6.5,56,0,0,ok,
+ans_1661,6.5,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1662,6.5,62,1,0,ok,
+ans_1663,6.5,75,1,0,ok,
+ans_1664,6.5,75,1,0,ok,
+ans_1665,6.5,70,1,0,ok,
+ans_1666,6.5,71,1,0,ok,
+ans_1667,6.5,70,1,0,ok,
+ans_1668,6.5,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1669,6.5,75,1,0,ok,
+ans_1670,6.5,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1671,6.5,71,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1672,6.5,74,1,0,ok,
+ans_1673,6.5,75,1,0,ok,
+ans_1674,7.0,62,1,0,ok,
+ans_1675,7.0,70,1,0,ok,
+ans_1676,7.0,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1677,7.0,74,1,0,ok,
+ans_1678,7.0,75,1,0,ok,
+ans_1679,7.0,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1680,7.0,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1681,7.0,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1682,7.0,75,1,0,ok,
+ans_1683,7.0,68,1,0,ok,
+ans_1684,7.0,56,0,0,ok,
+ans_1685,7.0,71,1,0,ok,
+ans_1686,7.0,62,1,0,ok,
+ans_1687,7.0,62,1,0,ok,
+ans_1688,7.0,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1689,7.0,71,1,0,ok,
+ans_1690,7.0,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1691,7.0,71,1,0,ok,
+ans_1692,7.0,75,1,0,ok,
+ans_1693,7.0,75,1,0,ok,
+ans_1694,7.0,56,0,0,ok,
+ans_1695,7.0,57,0,0,ok,
+ans_1696,7.0,62,1,0,ok,
+ans_1697,7.0,67,1,0,ok,
+ans_1698,7.0,71,1,0,ok,
+ans_1699,7.0,67,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1700,7.0,57,0,0,ok,
+ans_1701,7.0,67,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1702,7.0,71,1,0,ok,
+ans_1703,7.0,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1704,7.0,57,0,0,ok,
+ans_1705,7.0,71,1,0,ok,
+ans_1706,7.0,70,1,0,ok,
+ans_1707,7.0,68,1,0,ok,
+ans_1708,7.0,68,1,0,ok,
+ans_1709,7.0,67,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1710,7.0,68,1,0,ok,
+ans_1711,7.0,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1712,7.0,75,1,0,ok,
+ans_1713,7.0,57,0,0,ok,
+ans_1714,7.0,68,1,0,ok,
+ans_1715,7.0,75,1,0,ok,
+ans_1716,7.0,57,0,0,ok,
+ans_1717,7.0,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1718,7.0,75,1,0,ok,
+ans_1719,7.0,70,1,0,ok,
+ans_1720,7.0,67,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1721,7.0,75,1,0,ok,
+ans_1722,7.0,75,1,0,ok,
+ans_1723,7.0,71,1,0,ok,
+ans_1724,7.0,71,1,0,ok,
+ans_1725,7.0,68,1,0,ok,
+ans_1726,7.0,70,1,0,ok,
+ans_1727,7.0,67,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1728,7.0,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1729,7.0,61,1,0,ok,
+ans_1730,7.0,71,1,0,ok,
+ans_1731,7.0,75,1,0,ok,
+ans_1732,7.0,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1733,7.0,57,0,0,ok,
+ans_1734,7.0,56,0,0,ok,
+ans_1735,7.0,71,1,0,ok,
+ans_1736,7.0,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1737,7.0,75,1,0,ok,
+ans_1738,7.0,57,0,0,ok,
+ans_1739,7.0,75,1,0,ok,
+ans_1740,7.0,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1741,7.0,57,0,0,ok,
+ans_1742,7.0,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1743,7.0,70,1,0,ok,
+ans_1744,7.5,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_1745,7.5,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_1746,7.5,73,2,0,ok,
+ans_1747,7.5,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_1748,7.5,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_1749,7.5,65,0,1,suspicious,Academic phrases found: empirical evidence
+ans_1750,7.5,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_1751,7.5,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_1752,7.5,73,2,0,ok,
+ans_1753,7.5,73,2,0,ok,
+ans_1754,7.5,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_1755,7.5,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_1756,7.5,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_1757,7.5,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_1758,7.5,78,0,0,ok,
+ans_1759,7.5,72,2,0,ok,
+ans_1760,7.5,91,2,1,suspicious,"Too long (91 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_1761,7.5,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_1762,7.5,73,2,0,ok,
+ans_1763,7.5,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_1764,7.5,128,3,2,suspicious,"Too long (128 words, looks like essay); Academic phrases found: pressing and complex challenges of our time, competing priorities and perspectives; Too many complex sentences (3)"
+ans_1765,7.5,78,0,0,ok,
+ans_1766,7.5,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_1767,7.5,78,0,0,ok,
+ans_1768,7.5,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_1769,7.5,91,2,1,suspicious,"Too long (91 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_1770,7.5,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_1771,7.5,73,2,0,ok,
+ans_1772,7.5,80,1,0,ok,
+ans_1773,7.5,80,1,0,ok,
+ans_1774,7.5,77,0,0,ok,
+ans_1775,7.5,72,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_1776,7.5,91,2,1,suspicious,"Too long (91 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_1777,7.5,73,2,0,ok,
+ans_1778,7.5,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_1779,7.5,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_1780,7.5,72,2,0,ok,
+ans_1781,7.5,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_1782,7.5,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_1783,7.5,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_1784,7.5,73,2,0,ok,
+ans_1785,7.5,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_1786,7.5,78,0,0,ok,
+ans_1787,7.5,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_1788,7.5,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_1789,8.0,73,2,0,ok,
+ans_1790,8.0,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_1791,8.0,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_1792,8.0,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_1793,8.0,127,3,2,suspicious,"Too long (127 words, looks like essay); Academic phrases found: pressing and complex challenges of our time, competing priorities and perspectives; Too many complex sentences (3)"
+ans_1794,8.0,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_1795,8.0,72,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_1796,8.0,80,1,0,ok,
+ans_1797,8.0,65,0,1,suspicious,Academic phrases found: empirical evidence
+ans_1798,8.0,77,0,0,ok,
+ans_1799,8.5,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_1800,8.5,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_1801,5.5,91,0,0,suspicious,"Too long (91 words, looks like essay)"
+ans_1805,6.0,99,0,0,suspicious,"Too long (99 words, looks like essay)"
+ans_1806,6.5,71,1,0,ok,
+ans_1808,8.5,101,0,0,suspicious,"Too long (101 words, looks like essay)"
+ans_1809,7.5,73,2,0,ok,
+ans_1810,7.5,72,2,0,ok,
+ans_1813,6.0,47,0,0,ok,
+ans_1823,5.5,88,1,0,suspicious,"Too long (88 words, looks like essay)"
+ans_1832,5.5,46,0,0,ok,
+ans_1835,6.0,49,0,0,ok,
+ans_1838,5.0,38,0,0,ok,
+ans_1842,6.0,54,0,0,ok,
+ans_1843,4.0,34,0,0,ok,
+ans_1850,4.0,30,0,0,ok,
+ans_1853,6.0,89,0,0,suspicious,"Too long (89 words, looks like essay)"
+ans_1856,6.0,51,0,0,ok,
+ans_1859,6.0,60,0,0,ok,
+ans_1865,7.0,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1867,6.5,68,1,0,ok,
+ans_1868,6.5,59,0,0,ok,
+ans_1869,6.5,71,1,0,ok,
+ans_1873,6.0,49,0,0,ok,
+ans_1876,6.0,61,0,0,ok,
+ans_1886,6.0,62,0,0,ok,
+ans_1891,7.5,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_1892,6.0,49,0,0,ok,
+ans_1896,4.0,38,0,0,ok,
+ans_1901,6.0,62,0,0,ok,
+ans_1902,6.0,56,0,0,ok,
+ans_1904,7.0,62,1,0,ok,
+ans_1917,7.0,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1924,7.0,197,1,0,suspicious,"Too long (197 words, looks like essay)"
+ans_1927,6.5,71,1,0,ok,
+ans_1929,7.5,73,2,0,ok,
+ans_1932,6.0,48,0,0,ok,
+ans_1936,7.5,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_1937,7.0,67,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1939,7.5,77,0,0,ok,
+ans_1947,7.0,67,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1950,6.5,71,1,0,ok,
+ans_1951,6.5,77,0,0,ok,
+ans_1964,6.5,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_1969,7.0,57,0,0,ok,
+ans_1970,7.0,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_1971,5.5,62,0,0,ok,
+ans_1975,6.0,62,0,0,ok,
+ans_1982,4.5,53,0,0,ok,
+ans_1984,7.0,70,0,0,ok,
+ans_1985,7.5,76,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_2002,6.0,62,0,0,ok,
+ans_2005,6.0,94,0,0,suspicious,"Too long (94 words, looks like essay)"
+ans_2008,6.0,75,0,0,ok,
+ans_2009,7.5,72,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_2018,8.5,77,0,0,ok,
+ans_2019,7.5,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_2020,6.0,63,0,0,ok,
+ans_2022,6.0,48,0,0,ok,
+ans_2026,5.0,52,0,0,ok,
+ans_2027,5.5,41,0,0,ok,
+ans_2033,7.5,65,0,1,suspicious,Academic phrases found: empirical evidence
+ans_2035,7.5,77,0,0,ok,
+ans_2039,7.5,73,2,0,ok,
+ans_2041,7.5,186,3,0,suspicious,"Too long (186 words, looks like essay); Too many complex sentences (3)"
+ans_2048,8.0,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_2049,6.5,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_2051,6.0,62,0,0,ok,
+ans_2053,6.0,62,0,0,ok,
+ans_2056,4.5,58,0,0,ok,
+ans_2066,5.0,47,0,0,ok,
+ans_2071,6.0,61,0,0,ok,
+ans_2073,7.5,75,0,0,ok,
+ans_2075,6.5,68,1,0,ok,
+ans_2082,7.5,184,2,0,suspicious,"Too long (184 words, looks like essay)"
+ans_2083,8.0,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_2084,4.0,31,0,0,ok,
+ans_2085,6.0,48,0,0,ok,
+ans_2088,5.5,44,0,0,ok,
+ans_2090,6.0,48,0,0,ok,
+ans_2091,7.0,71,1,0,ok,
+ans_2092,5.5,41,0,0,ok,
+ans_2096,7.0,56,0,0,ok,
+ans_2099,4.0,32,0,0,ok,
+ans_2100,5.0,52,0,0,ok,
+ans_2104,6.0,94,0,0,suspicious,"Too long (94 words, looks like essay)"
+ans_2106,6.5,71,1,0,ok,
+ans_2110,7.5,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_2112,6.0,47,0,0,ok,
+ans_2113,5.5,23,0,0,ok,
+ans_2116,6.0,53,0,0,ok,
+ans_2119,6.5,75,1,0,ok,
+ans_2120,4.0,39,0,0,ok,
+ans_2132,7.5,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_2133,6.5,72,1,0,ok,
+ans_2137,4.0,39,0,0,ok,
+ans_2141,6.5,62,1,0,ok,
+ans_2142,5.5,27,0,0,ok,
+ans_2152,6.0,97,0,0,suspicious,"Too long (97 words, looks like essay)"
+ans_2155,6.0,62,0,0,ok,
+ans_2157,7.0,156,0,0,suspicious,"Too long (156 words, looks like essay)"
+ans_2162,6.0,48,0,0,ok,
+ans_2166,7.0,158,3,0,suspicious,"Too long (158 words, looks like essay); Too many complex sentences (3)"
+ans_2169,6.0,60,0,0,ok,
+ans_2172,6.0,61,0,0,ok,
+ans_2182,5.0,21,0,0,ok,
+ans_2185,6.0,97,1,0,suspicious,"Too long (97 words, looks like essay)"
+ans_2188,5.5,87,1,0,suspicious,"Too long (87 words, looks like essay)"
+ans_2190,7.0,75,1,0,ok,
+ans_2194,6.0,51,0,0,ok,
+ans_2196,7.0,62,1,0,ok,
+ans_2198,5.5,55,0,0,ok,
+ans_2202,6.5,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_2208,5.0,45,0,0,ok,
+ans_2211,6.0,59,0,0,ok,
+ans_2213,7.0,178,2,0,suspicious,"Too long (178 words, looks like essay)"
+ans_2217,8.0,86,0,0,suspicious,"Too long (86 words, looks like essay)"
+ans_2218,6.0,46,0,0,ok,
+ans_2221,6.0,61,0,0,ok,
+ans_2227,5.5,41,0,0,ok,
+ans_2233,7.0,58,0,0,ok,
+ans_2237,6.0,57,0,0,ok,
+ans_2239,7.5,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_2243,7.0,77,0,0,ok,
+ans_2251,7.0,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_2257,5.5,46,0,0,ok,
+ans_2260,6.0,98,0,0,suspicious,"Too long (98 words, looks like essay)"
+ans_2261,5.5,87,1,0,suspicious,"Too long (87 words, looks like essay)"
+ans_2262,5.0,41,0,0,ok,
+ans_2263,6.5,77,0,0,ok,
+ans_2264,4.0,15,0,0,suspicious,Too short (15 words)
+ans_2268,7.0,68,1,0,ok,
+ans_2272,6.5,75,1,0,ok,
+ans_2278,7.0,68,1,0,ok,
+ans_2284,6.0,88,1,0,suspicious,"Too long (88 words, looks like essay)"
+ans_2291,6.0,54,0,0,ok,
+ans_2294,5.0,30,0,0,ok,
+ans_2301,7.0,72,0,0,ok,
+ans_2305,7.0,67,1,0,ok,
+ans_2306,7.5,79,0,0,ok,
+ans_2307,8.0,76,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_2309,6.5,69,0,0,ok,
+ans_2311,5.0,51,0,0,ok,
+ans_2312,6.0,55,0,0,ok,
+ans_2313,7.5,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_2314,7.5,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_2318,5.0,53,0,0,ok,
+ans_2321,7.0,75,1,0,ok,
+ans_2325,5.5,28,0,0,ok,
+ans_2327,7.0,75,1,0,ok,
+ans_2328,4.0,30,0,0,ok,
+ans_2329,4.0,27,0,0,ok,
+ans_2330,4.0,22,0,0,ok,
+ans_2331,4.0,30,0,0,ok,
+ans_2332,4.0,22,0,0,ok,
+ans_2333,4.0,27,0,0,ok,
+ans_2334,4.0,23,0,0,ok,
+ans_2335,4.0,23,0,0,ok,
+ans_2336,4.0,30,0,0,ok,
+ans_2337,4.0,23,0,0,ok,
+ans_2338,4.5,43,0,0,ok,
+ans_2339,4.5,29,0,0,ok,
+ans_2340,4.5,36,0,0,ok,
+ans_2341,4.5,43,0,0,ok,
+ans_2342,4.5,43,0,0,ok,
+ans_2343,4.5,43,0,0,ok,
+ans_2344,4.5,36,0,0,ok,
+ans_2345,4.5,43,0,0,ok,
+ans_2346,5.0,36,0,0,ok,
+ans_2347,5.0,36,0,0,ok,
+ans_2348,5.0,43,0,0,ok,
+ans_2349,5.0,36,0,0,ok,
+ans_2350,5.0,43,0,0,ok,
+ans_2351,5.0,30,0,0,ok,
+ans_2352,5.0,43,0,0,ok,
+ans_2353,5.0,43,0,0,ok,
+ans_2354,5.0,36,0,0,ok,
+ans_2355,5.0,43,0,0,ok,
+ans_2356,5.0,35,0,0,ok,
+ans_2357,5.0,54,0,0,ok,
+ans_2358,5.0,31,0,0,ok,
+ans_2359,5.0,43,0,0,ok,
+ans_2360,5.0,36,0,0,ok,
+ans_2361,5.5,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2362,5.5,76,2,0,ok,
+ans_2363,5.5,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2364,5.5,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2365,5.5,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2366,5.5,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2367,5.5,76,2,0,ok,
+ans_2368,5.5,76,2,0,ok,
+ans_2369,5.5,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2370,5.5,37,0,0,ok,
+ans_2371,5.5,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2372,5.5,45,0,0,ok,
+ans_2373,5.5,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2374,5.5,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2375,5.5,76,2,0,ok,
+ans_2376,5.5,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2377,5.5,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2378,5.5,76,2,0,ok,
+ans_2379,5.5,76,2,0,ok,
+ans_2380,5.5,76,2,0,ok,
+ans_2381,6.0,61,0,0,ok,
+ans_2382,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2383,6.0,76,2,0,ok,
+ans_2384,6.0,61,0,0,ok,
+ans_2385,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2386,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2387,6.0,50,0,0,ok,
+ans_2388,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2389,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2390,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2391,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2392,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2393,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2394,6.0,60,0,0,ok,
+ans_2395,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2396,6.0,53,0,0,ok,
+ans_2397,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2398,6.0,76,2,0,ok,
+ans_2399,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2400,6.0,48,0,0,ok,
+ans_2401,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2402,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2403,6.0,76,2,0,ok,
+ans_2404,6.0,62,0,0,ok,
+ans_2405,6.0,62,0,0,ok,
+ans_2406,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2407,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2408,6.0,46,0,0,ok,
+ans_2409,6.0,76,2,0,ok,
+ans_2410,6.0,53,0,0,ok,
+ans_2411,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2412,6.0,60,0,0,ok,
+ans_2413,6.0,55,0,0,ok,
+ans_2414,6.0,76,2,0,ok,
+ans_2415,6.0,76,2,0,ok,
+ans_2416,6.0,59,0,0,ok,
+ans_2417,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2418,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2419,6.0,76,2,0,ok,
+ans_2420,6.0,80,2,1,suspicious,Academic phrases found: nuanced solutions that can adapt
+ans_2421,6.5,65,0,0,ok,
+ans_2422,6.5,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_2423,6.5,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_2424,6.5,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_2425,6.5,75,1,0,ok,
+ans_2426,6.5,67,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_2427,6.5,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_2428,6.5,71,1,0,ok,
+ans_2429,6.5,61,1,0,ok,
+ans_2430,6.5,67,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_2431,6.5,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_2432,6.5,68,1,0,ok,
+ans_2433,6.5,65,1,0,ok,
+ans_2434,6.5,74,1,0,ok,
+ans_2435,6.5,67,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_2436,6.5,75,1,0,ok,
+ans_2437,6.5,75,1,0,ok,
+ans_2438,6.5,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_2439,6.5,75,1,0,ok,
+ans_2440,6.5,71,1,0,ok,
+ans_2441,6.5,68,1,0,ok,
+ans_2442,6.5,68,1,0,ok,
+ans_2443,6.5,68,1,0,ok,
+ans_2444,6.5,75,1,0,ok,
+ans_2445,6.5,68,1,0,ok,
+ans_2446,7.0,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_2447,7.0,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_2448,7.0,74,1,0,ok,
+ans_2449,7.0,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_2450,7.0,56,0,0,ok,
+ans_2451,7.0,62,1,0,ok,
+ans_2452,7.0,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_2453,7.0,75,1,0,ok,
+ans_2454,7.0,71,1,0,ok,
+ans_2455,7.0,70,1,0,ok,
+ans_2456,7.0,67,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_2457,7.0,56,0,0,ok,
+ans_2458,7.0,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_2459,7.0,68,1,0,ok,
+ans_2460,7.0,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_2461,7.0,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_2462,7.0,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_2463,7.0,68,1,0,ok,
+ans_2464,7.0,75,1,0,ok,
+ans_2465,7.0,70,1,0,ok,
+ans_2466,7.0,74,1,0,ok,
+ans_2467,7.0,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_2468,7.0,75,1,0,ok,
+ans_2469,7.0,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_2470,7.0,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_2471,7.0,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_2472,7.0,71,1,0,ok,
+ans_2473,7.0,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_2474,7.0,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_2475,7.0,62,1,0,ok,
+ans_2476,7.0,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_2477,7.0,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_2478,7.0,75,1,0,ok,
+ans_2479,7.0,74,1,0,ok,
+ans_2480,7.0,57,0,0,ok,
+ans_2481,7.5,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_2482,7.5,128,3,2,suspicious,"Too long (128 words, looks like essay); Academic phrases found: pressing and complex challenges of our time, competing priorities and perspectives; Too many complex sentences (3)"
+ans_2483,7.5,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_2484,7.5,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_2485,7.5,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_2486,7.5,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_2487,7.5,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_2488,7.5,72,2,0,ok,
+ans_2489,7.5,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_2490,7.5,73,2,0,ok,
+ans_2491,7.5,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_2492,7.5,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_2493,7.5,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_2494,7.5,73,2,0,ok,
+ans_2495,7.5,128,3,2,suspicious,"Too long (128 words, looks like essay); Academic phrases found: pressing and complex challenges of our time, competing priorities and perspectives; Too many complex sentences (3)"
+ans_2496,7.5,78,0,0,ok,
+ans_2497,7.5,128,3,2,suspicious,"Too long (128 words, looks like essay); Academic phrases found: pressing and complex challenges of our time, competing priorities and perspectives; Too many complex sentences (3)"
+ans_2498,7.5,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_2499,7.5,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_2500,7.5,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_2501,7.5,73,2,0,ok,
+ans_2502,7.5,77,0,0,ok,
+ans_2503,7.5,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_2504,7.5,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_2505,7.5,128,3,2,suspicious,"Too long (128 words, looks like essay); Academic phrases found: pressing and complex challenges of our time, competing priorities and perspectives; Too many complex sentences (3)"
+ans_2506,8.0,73,2,0,ok,
+ans_2507,8.0,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_2508,8.0,72,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_2509,8.0,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_2510,8.0,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_2511,8.0,127,3,2,suspicious,"Too long (127 words, looks like essay); Academic phrases found: pressing and complex challenges of our time, competing priorities and perspectives; Too many complex sentences (3)"
+ans_2512,8.0,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_2513,8.0,127,3,2,suspicious,"Too long (127 words, looks like essay); Academic phrases found: pressing and complex challenges of our time, competing priorities and perspectives; Too many complex sentences (3)"
+ans_2514,8.0,73,2,0,ok,
+ans_2515,8.0,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_2516,8.0,77,0,0,ok,
+ans_2517,8.0,78,0,0,ok,
+ans_2518,8.5,91,2,1,suspicious,"Too long (91 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_2519,8.5,128,3,2,suspicious,"Too long (128 words, looks like essay); Academic phrases found: pressing and complex challenges of our time, competing priorities and perspectives; Too many complex sentences (3)"
+ans_2520,8.5,78,0,0,ok,
+ans_2521,8.5,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_2522,8.5,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_3623,4.5,63,0,0,ok,
+ans_3624,5.5,46,0,0,ok,
+ans_3625,7.5,73,2,0,ok,
+ans_3626,4.0,30,0,0,ok,
+ans_3627,3.5,31,0,0,ok,
+ans_3628,6.0,60,0,0,ok,
+ans_3629,7.5,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_3630,4.5,59,0,0,ok,
+ans_3631,7.0,57,0,0,ok,
+ans_3632,4.5,52,0,0,ok,
+ans_3633,4.5,37,0,0,ok,
+ans_3634,6.5,62,1,0,ok,
+ans_3635,4.5,53,0,0,ok,
+ans_3636,5.0,29,0,0,ok,
+ans_3637,5.0,30,0,0,ok,
+ans_3638,3.5,31,0,0,ok,
+ans_3639,5.0,57,0,0,ok,
+ans_3640,6.0,47,0,0,ok,
+ans_3641,4.5,31,0,0,ok,
+ans_3642,5.0,42,0,0,ok,
+ans_3643,4.5,62,0,0,ok,
+ans_3644,6.0,54,0,0,ok,
+ans_3645,4.5,55,0,0,ok,
+ans_3646,6.5,74,1,0,ok,
+ans_3647,4.0,36,0,0,ok,
+ans_3648,8.5,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_3649,4.0,38,0,0,ok,
+ans_3650,3.5,35,0,0,ok,
+ans_3651,7.0,70,1,0,ok,
+ans_3652,6.5,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_3653,5.5,42,0,0,ok,
+ans_3654,6.5,58,0,0,ok,
+ans_3655,8.0,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_3656,4.5,55,0,0,ok,
+ans_3657,5.0,35,0,0,ok,
+ans_3658,5.0,34,0,0,ok,
+ans_3659,8.5,72,2,0,ok,
+ans_3660,5.5,38,0,0,ok,
+ans_3661,7.5,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_3662,5.5,47,0,0,ok,
+ans_3663,6.0,53,0,0,ok,
+ans_3664,5.5,60,0,0,ok,
+ans_3665,4.5,56,0,0,ok,
+ans_3666,6.5,68,1,0,ok,
+ans_3667,6.5,75,1,0,ok,
+ans_3668,4.0,42,0,0,ok,
+ans_3669,8.5,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_3670,3.5,30,0,0,ok,
+ans_3671,5.5,37,0,0,ok,
+ans_3672,5.5,55,0,0,ok,
+ans_3673,5.0,53,0,0,ok,
+ans_3674,3.5,41,0,0,ok,
+ans_3675,4.5,28,0,0,ok,
+ans_3676,5.5,61,0,0,ok,
+ans_3677,3.5,30,0,0,ok,
+ans_3678,7.5,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_3679,5.5,40,0,0,ok,
+ans_3680,5.0,61,0,0,ok,
+ans_3681,5.5,55,0,0,ok,
+ans_3682,5.0,41,0,0,ok,
+ans_3683,8.5,91,2,1,suspicious,"Too long (91 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_3684,3.5,35,0,0,ok,
+ans_3685,6.0,46,0,0,ok,
+ans_3686,8.5,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_3687,4.0,31,0,0,ok,
+ans_3688,3.5,30,0,0,ok,
+ans_3689,5.0,54,0,0,ok,
+ans_3690,4.5,44,0,0,ok,
+ans_3691,6.5,56,0,0,ok,
+ans_3692,8.0,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_3693,7.0,75,1,0,ok,
+ans_3694,6.5,68,1,0,ok,
+ans_3695,3.5,31,0,0,ok,
+ans_3696,8.0,78,0,0,ok,
+ans_3697,5.0,61,0,0,ok,
+ans_3698,8.5,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_3699,7.0,56,0,0,ok,
+ans_3700,4.0,34,0,0,ok,
+ans_3701,7.0,57,0,0,ok,
+ans_3702,7.0,57,0,0,ok,
+ans_3703,5.0,38,0,0,ok,
+ans_3704,6.5,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_3705,6.5,75,1,0,ok,
+ans_3706,6.5,76,1,0,ok,
+ans_3707,6.0,62,0,0,ok,
+ans_3708,5.5,44,0,0,ok,
+ans_3709,8.5,78,0,0,ok,
+ans_3710,6.5,75,1,0,ok,
+ans_3711,5.5,55,0,0,ok,
+ans_3712,6.0,66,0,0,ok,
+ans_3713,4.0,30,0,0,ok,
+ans_3714,8.5,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_3715,8.5,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_3716,6.5,75,1,0,ok,
+ans_3717,3.5,31,0,0,ok,
+ans_3718,6.5,68,1,0,ok,
+ans_3719,6.0,62,0,0,ok,
+ans_3720,6.5,77,1,0,ok,
+ans_3721,4.0,41,0,0,ok,
+ans_3722,5.5,46,0,0,ok,
+ans_3723,8.5,72,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_3724,6.5,67,1,0,ok,
+ans_3725,6.5,125,2,2,suspicious,"Too long (125 words, looks like essay); Academic phrases found: nuanced solutions that can adapt, thoughtful, evidence-based approaches"
+ans_3726,5.5,89,1,0,suspicious,"Too long (89 words, looks like essay)"
+ans_3727,5.0,55,0,0,ok,
+ans_3728,3.5,30,0,0,ok,
+ans_3729,7.5,77,0,0,ok,
+ans_3730,6.5,68,1,0,ok,
+ans_3731,5.0,29,0,0,ok,
+ans_3732,5.5,37,0,0,ok,
+ans_3733,4.0,37,0,0,ok,
+ans_3734,5.0,30,0,0,ok,
+ans_3735,5.0,55,0,0,ok,
+ans_3736,7.5,78,0,0,ok,
+ans_3737,6.5,57,0,0,ok,
+ans_3738,7.0,67,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_3739,5.5,88,1,0,suspicious,"Too long (88 words, looks like essay)"
+ans_3740,3.5,30,0,0,ok,
+ans_3741,4.5,55,0,0,ok,
+ans_3742,8.0,91,2,1,suspicious,"Too long (91 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_3743,5.0,30,0,0,ok,
+ans_3744,7.5,78,0,0,ok,
+ans_3745,8.0,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_3746,4.5,31,0,0,ok,
+ans_3747,7.0,74,1,0,ok,
+ans_3748,8.5,73,2,0,ok,
+ans_3749,7.0,71,1,0,ok,
+ans_3750,5.0,37,0,0,ok,
+ans_3751,4.5,31,0,0,ok,
+ans_3752,5.0,32,0,0,ok,
+ans_3753,5.5,48,0,0,ok,
+ans_3754,5.5,44,0,0,ok,
+ans_3755,4.5,52,0,0,ok,
+ans_3756,3.5,30,0,0,ok,
+ans_3757,8.5,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_3758,5.5,44,0,0,ok,
+ans_3759,8.0,76,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_3760,7.0,74,1,0,ok,
+ans_3761,4.0,34,0,0,ok,
+ans_3762,7.0,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_3763,6.0,62,0,0,ok,
+ans_3764,6.0,57,0,0,ok,
+ans_3765,6.0,62,0,0,ok,
+ans_3766,4.5,29,0,0,ok,
+ans_3767,6.5,71,1,0,ok,
+ans_3768,7.0,75,1,0,ok,
+ans_3769,4.0,35,0,0,ok,
+ans_3770,6.5,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_3771,7.5,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_3772,7.5,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_3773,5.0,42,0,0,ok,
+ans_3774,4.5,43,0,0,ok,
+ans_3775,7.5,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_3776,5.0,54,0,0,ok,
+ans_3777,5.0,29,0,0,ok,
+ans_3778,4.0,36,0,0,ok,
+ans_3779,7.0,62,1,0,ok,
+ans_3780,6.0,61,0,0,ok,
+ans_3781,5.0,36,0,0,ok,
+ans_3782,7.0,57,0,0,ok,
+ans_3783,5.0,30,0,0,ok,
+ans_3784,5.5,38,0,0,ok,
+ans_3785,5.5,46,0,0,ok,
+ans_3786,5.5,40,0,0,ok,
+ans_3787,6.0,60,0,0,ok,
+ans_3788,7.5,128,3,2,suspicious,"Too long (128 words, looks like essay); Academic phrases found: pressing and complex challenges of our time, competing priorities and perspectives; Too many complex sentences (3)"
+ans_3789,5.5,43,0,0,ok,
+ans_3790,3.5,32,0,0,ok,
+ans_3791,5.5,39,0,0,ok,
+ans_3792,4.5,57,0,0,ok,
+ans_3793,4.5,46,0,0,ok,
+ans_3794,4.0,35,0,0,ok,
+ans_3795,4.5,29,0,0,ok,
+ans_3796,3.5,40,0,0,ok,
+ans_3797,5.5,48,0,0,ok,
+ans_3798,5.0,52,0,0,ok,
+ans_3799,4.0,37,0,0,ok,
+ans_3800,8.5,78,0,0,ok,
+ans_3801,6.0,53,0,0,ok,
+ans_3802,6.0,62,0,0,ok,
+ans_3803,6.0,60,0,0,ok,
+ans_3804,5.0,33,0,0,ok,
+ans_3805,7.0,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_3806,7.0,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_3807,6.5,61,1,0,ok,
+ans_3808,8.5,72,2,0,ok,
+ans_3809,4.5,35,0,0,ok,
+ans_3810,7.5,78,0,0,ok,
+ans_3811,6.0,54,0,0,ok,
+ans_3812,3.5,30,0,0,ok,
+ans_3813,6.5,75,1,0,ok,
+ans_3814,5.5,45,0,0,ok,
+ans_3815,5.0,53,0,0,ok,
+ans_3816,5.0,54,0,0,ok,
+ans_3817,5.5,55,0,0,ok,
+ans_3818,4.0,24,0,0,ok,
+ans_3819,7.0,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_3820,5.0,34,0,0,ok,
+ans_3821,4.0,31,0,0,ok,
+ans_3822,5.0,32,0,0,ok,
+ans_3823,6.5,76,1,0,ok,
+ans_3824,3.5,33,0,0,ok,
+ans_3825,5.0,29,0,0,ok,
+ans_3826,4.5,42,0,0,ok,
+ans_3827,5.5,48,0,0,ok,
+ans_3828,4.0,35,0,0,ok,
+ans_3829,5.5,38,0,0,ok,
+ans_3830,8.0,65,0,1,suspicious,Academic phrases found: empirical evidence
+ans_3831,4.0,30,0,0,ok,
+ans_3832,7.5,77,0,0,ok,
+ans_3833,3.5,30,0,0,ok,
+ans_3834,6.5,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_3835,7.0,57,0,0,ok,
+ans_3836,5.0,30,0,0,ok,
+ans_3837,3.5,39,0,0,ok,
+ans_3838,4.5,33,0,0,ok,
+ans_3839,5.0,53,0,0,ok,
+ans_3840,5.0,34,0,0,ok,
+ans_3841,6.5,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_3842,4.5,52,0,0,ok,
+ans_3843,3.5,35,0,0,ok,
+ans_3844,6.0,53,0,0,ok,
+ans_3845,8.5,73,2,0,ok,
+ans_3846,6.5,75,1,0,ok,
+ans_3847,8.0,73,2,0,ok,
+ans_3848,8.0,77,0,0,ok,
+ans_3849,5.0,56,0,0,ok,
+ans_3850,8.0,72,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_3851,5.0,28,0,0,ok,
+ans_3852,3.5,31,0,0,ok,
+ans_3853,4.0,31,0,0,ok,
+ans_3854,4.5,52,0,0,ok,
+ans_3855,6.5,65,0,0,ok,
+ans_3856,8.0,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_3857,8.5,128,3,2,suspicious,"Too long (128 words, looks like essay); Academic phrases found: pressing and complex challenges of our time, competing priorities and perspectives; Too many complex sentences (3)"
+ans_3858,6.5,67,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_3859,3.5,30,0,0,ok,
+ans_3860,6.0,54,0,0,ok,
+ans_3861,6.0,53,0,0,ok,
+ans_3862,5.0,30,0,0,ok,
+ans_3863,4.0,31,0,0,ok,
+ans_3864,5.0,35,0,0,ok,
+ans_3865,4.0,37,0,0,ok,
+ans_3866,6.5,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_3867,5.0,29,0,0,ok,
+ans_3868,4.0,33,0,0,ok,
+ans_3869,7.0,74,1,0,ok,
+ans_3870,5.0,34,0,0,ok,
+ans_3871,7.5,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_3872,5.0,42,0,0,ok,
+ans_3873,6.5,62,1,0,ok,
+ans_3874,4.5,65,0,0,ok,
+ans_3875,7.5,73,2,0,ok,
+ans_3876,6.0,53,0,0,ok,
+ans_3877,3.5,15,0,0,suspicious,Too short (15 words)
+ans_3878,4.5,38,0,0,ok,
+ans_3879,6.0,56,0,0,ok,
+ans_3880,3.5,36,0,0,ok,
+ans_3881,8.0,78,0,0,ok,
+ans_3882,6.5,57,0,0,ok,
+ans_3883,6.5,75,1,0,ok,
+ans_3884,7.0,68,1,0,ok,
+ans_3885,7.0,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_3886,4.0,30,0,0,ok,
+ans_3887,6.0,65,0,0,ok,
+ans_3888,6.0,60,0,0,ok,
+ans_3889,6.0,61,0,0,ok,
+ans_3890,6.5,74,1,0,ok,
+ans_3891,6.0,47,0,0,ok,
+ans_3892,3.5,33,0,0,ok,
+ans_3893,6.5,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_3894,6.5,70,1,0,ok,
+ans_3895,4.5,52,0,0,ok,
+ans_3896,5.5,39,0,0,ok,
+ans_3897,5.5,89,1,0,suspicious,"Too long (89 words, looks like essay)"
+ans_3898,8.5,77,0,0,ok,
+ans_3899,6.0,54,0,0,ok,
+ans_3900,6.5,75,0,0,ok,
+ans_3901,6.5,68,1,0,ok,
+ans_3902,6.0,53,0,0,ok,
+ans_3903,4.0,31,0,0,ok,
+ans_3904,5.5,44,0,0,ok,
+ans_3905,6.5,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_3906,3.5,30,0,0,ok,
+ans_3907,6.0,62,0,0,ok,
+ans_3908,6.0,63,0,0,ok,
+ans_3909,4.0,42,0,0,ok,
+ans_3910,6.5,57,0,0,ok,
+ans_3911,6.0,62,0,0,ok,
+ans_3912,8.5,72,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_3913,7.0,82,1,1,suspicious,"Too long (82 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_3914,5.5,56,0,0,ok,
+ans_3915,5.0,19,0,0,suspicious,Too short (19 words)
+ans_3916,4.5,31,0,0,ok,
+ans_3917,5.5,45,0,0,ok,
+ans_3918,7.5,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_3919,6.0,60,0,0,ok,
+ans_3920,3.5,32,0,0,ok,
+ans_3921,3.5,30,0,0,ok,
+ans_3922,7.0,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_3923,4.0,31,0,0,ok,
+ans_3924,7.0,67,1,0,ok,
+ans_3925,7.0,71,1,0,ok,
+ans_3926,8.5,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_3927,5.5,90,1,0,suspicious,"Too long (90 words, looks like essay)"
+ans_3928,7.5,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_3929,5.0,35,0,0,ok,
+ans_3930,6.5,67,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_3931,7.5,72,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_3932,7.5,78,0,0,ok,
+ans_3933,5.5,42,0,0,ok,
+ans_3934,3.5,30,0,0,ok,
+ans_3935,8.5,76,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_3936,7.5,73,2,0,ok,
+ans_3937,6.5,70,1,0,ok,
+ans_3938,7.0,74,1,0,ok,
+ans_3939,8.0,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_3940,7.5,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_3941,5.0,35,0,0,ok,
+ans_3942,7.0,75,1,0,ok,
+ans_3943,8.5,77,1,2,suspicious,"Academic phrases found: fundamental tension in contemporary society, adaptive frameworks that can evolve"
+ans_3944,5.5,37,0,0,ok,
+ans_3945,4.0,33,0,0,ok,
+ans_3946,8.5,77,0,0,ok,
+ans_3947,5.5,38,0,0,ok,
+ans_3948,8.5,73,2,0,ok,
+ans_3949,3.5,44,0,0,ok,
+ans_3950,4.0,40,0,0,ok,
+ans_3951,4.0,46,0,0,ok,
+ans_3952,7.0,68,1,0,ok,
+ans_3953,5.0,15,0,0,suspicious,Too short (15 words)
+ans_3954,5.5,55,0,0,ok,
+ans_3955,3.5,30,0,0,ok,
+ans_3956,6.5,61,1,0,ok,
+ans_3957,4.0,32,0,0,ok,
+ans_3958,6.5,57,0,0,ok,
+ans_3959,6.0,47,0,0,ok,
+ans_3960,7.5,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_3961,8.5,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_3962,4.5,30,0,0,ok,
+ans_3963,6.0,47,0,0,ok,
+ans_3964,5.5,37,0,0,ok,
+ans_3965,8.5,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_3966,3.5,38,0,0,ok,
+ans_3967,7.5,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_3968,7.0,68,1,0,ok,
+ans_3969,6.5,62,1,0,ok,
+ans_3970,5.5,47,0,0,ok,
+ans_3971,5.0,53,0,0,ok,
+ans_3972,7.5,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_3973,7.5,92,2,1,suspicious,"Too long (92 words, looks like essay); Academic phrases found: sophisticated understanding of"
+ans_3974,8.0,81,1,0,suspicious,"Too long (81 words, looks like essay)"
+ans_3975,8.5,73,1,1,suspicious,Academic phrases found: navigate change in complex systems
+ans_3976,6.5,67,1,0,ok,
+ans_3977,7.5,73,2,0,ok,
+ans_3978,6.0,49,0,0,ok,
+ans_3979,5.0,36,0,0,ok,
+ans_3980,4.5,28,0,0,ok,
+ans_3981,7.5,127,3,2,suspicious,"Too long (127 words, looks like essay); Academic phrases found: pressing and complex challenges of our time, competing priorities and perspectives; Too many complex sentences (3)"
+ans_3982,5.5,45,0,0,ok,
+ans_3983,6.0,53,0,0,ok,
+ans_3984,5.5,40,0,0,ok,
+ans_3985,3.5,30,0,0,ok,
+ans_3986,5.5,43,0,0,ok,
+ans_3987,8.0,77,0,0,ok,
+ans_3988,7.0,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_3989,4.0,32,0,0,ok,
+ans_3990,7.0,71,1,0,ok,
+ans_3991,7.0,68,1,0,ok,
+ans_3992,5.0,32,0,0,ok,
+ans_3993,5.5,54,0,0,ok,
+ans_3994,5.5,47,0,0,ok,
+ans_3995,6.0,49,0,0,ok,
+ans_3996,8.0,127,3,2,suspicious,"Too long (127 words, looks like essay); Academic phrases found: pressing and complex challenges of our time, competing priorities and perspectives; Too many complex sentences (3)"
+ans_3997,5.0,45,0,0,ok,
+ans_3998,7.0,68,0,1,suspicious,Academic phrases found: represents a complex challenge with multiple dimensions
+ans_3999,5.0,32,0,0,ok,
+ans_4000,8.5,66,0,1,suspicious,Academic phrases found: empirical evidence
+ans_4001,5.5,54,0,0,ok,
+ans_4002,7.5,128,3,2,suspicious,"Too long (128 words, looks like essay); Academic phrases found: pressing and complex challenges of our time, competing priorities and perspectives; Too many complex sentences (3)"
+ans_4003,5.5,88,1,0,suspicious,"Too long (88 words, looks like essay)"
+ans_4004,6.0,62,0,0,ok,
+ans_4005,3.5,31,0,0,ok,
+ans_4006,7.0,62,1,0,ok,
+ans_4007,3.5,36,0,0,ok,
+ans_4008,4.5,38,0,0,ok,
+ans_4009,6.0,53,0,0,ok,
+ans_4010,6.5,62,1,0,ok,
+ans_4011,6.0,52,0,0,ok,
+ans_4012,7.5,73,2,0,ok,
+ans_4013,5.5,39,0,0,ok,
+ans_4014,5.5,61,0,0,ok,
+ans_4015,5.5,42,0,0,ok,
+ans_4016,6.0,54,0,0,ok,
+ans_4017,5.0,32,0,0,ok,
+ans_4018,6.5,83,1,1,suspicious,"Too long (83 words, looks like essay); Academic phrases found: nuanced solutions that can adapt"
+ans_4019,4.0,40,0,0,ok,
+ans_4020,5.5,42,0,0,ok,
+ans_4021,4.5,61,0,0,ok,
+ans_4022,6.0,46,0,0,ok,
