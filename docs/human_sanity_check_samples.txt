@@ -1,0 +1,333 @@
+HUMAN SANITY CHECK: ВЫБОРКА ПРИМЕРОВ
+======================================================================
+
+
+======================================================================
+Пример 1
+Overall: 4.0
+FC: 4.5, LR: 4.0, GRA: 4.0, PR: 3.5
+======================================================================
+Вопрос: How can we encourage sustainable living?
+
+Ответ:
+I think..... it um..... is actually, wait..... important... important...... Many people..... they let me think..... think about this... It is good..... but also..... there are problems... I let me think..... think we need to..... do something... It is difficult question.
+
+
+======================================================================
+Пример 2
+Overall: 4.0
+FC: 3.5, LR: 4.0, GRA: 4.5, PR: 4.0
+======================================================================
+Вопрос: Why do people experience stress?
+
+Ответ:
+I think... it is important. Many people... they think about this. It is good... but also... there are problems. I think we need to... do something. It is difficult question.
+
+
+======================================================================
+Пример 3
+Overall: 4.0
+FC: 4.0, LR: 4.0, GRA: 3.0, PR: 3.5
+======================================================================
+Вопрос: How can we reduce social inequality?
+
+Ответ:
+I think... it is important. Many people... they think about this. It is good... but also... there are problems. I think we need to... do something. It is difficult question.
+
+
+======================================================================
+Пример 4
+Overall: 4.0
+FC: 3.0, LR: 4.0, GRA: 4.5, PR: 3.5
+======================================================================
+Вопрос: How has remote work changed employment?
+
+Ответ:
+I think it is important important Many people they think about this It is good but also there are problems I think we need to do something It is difficult question
+
+
+======================================================================
+Пример 5
+Overall: 4.0
+FC: 4.0, LR: 4.0, GRA: 3.5, PR: 4.5
+======================================================================
+Вопрос: What causes economic inequality?
+
+Ответ:
+I think... it is important. Many people... they think about this. It is good... but also... there are problems. I think we need to... do something. It is difficult question.
+
+
+======================================================================
+Пример 6
+Overall: 4.5
+FC: 4.5, LR: 5.0, GRA: 4.0, PR: 4.5
+======================================================================
+Вопрос: What role should teachers play in students' lives?
+
+Ответ:
+I think there are problems with academic achievement. what I want to say is... For example, it can cause issues I mean... for some people. But I also uh... think there are good things. It can help in some ways. I think we need um... to be careful and find good solution.
+
+
+======================================================================
+Пример 7
+Overall: 4.5
+FC: 5.5, LR: 4.5, GRA: 4.0, PR: 4.5
+======================================================================
+Вопрос: How should we balance privacy and security?
+
+Ответ:
+I think this is question kind of... question... for both people and government. Individuals can kind of... uh... help with social inequality. But also we need rules and support. I think we need both approaches.
+
+
+======================================================================
+Пример 8
+Overall: 4.5
+FC: 4.0, LR: 4.0, GRA: 5.0, PR: 5.0
+======================================================================
+Вопрос: What are the negative effects of social media?
+
+Ответ:
+This is difficult question. I think digital transformation has problems. But I also think it has benefits. We need to think about both sides. I think balance is important.
+
+
+======================================================================
+Пример 9
+Overall: 4.5
+FC: 4.0, LR: 4.5, GRA: 3.5, PR: 4.5
+======================================================================
+Вопрос: What attracts people to cities?
+
+Ответ:
+This is difficult difficult... question. I think demographics has problems. But I also think it has benefits. We need to think about both sides. I think balance is important.
+
+
+======================================================================
+Пример 10
+Overall: 4.5
+FC: 4.0, LR: 4.0, GRA: 5.0, PR: 5.0
+======================================================================
+Вопрос: How can cities become more sustainable?
+
+Ответ:
+This is difficult question. I think digital devices has problems. But I also think it has benefits. We need to think about both sides. I think balance is important.
+
+
+======================================================================
+Пример 11
+Overall: 5.5
+FC: 5.5, LR: 5.5, GRA: 6.5, PR: 5.0
+======================================================================
+Вопрос: Do you think online education can replace traditional classrooms?
+
+Ответ:
+I can think of examples with artificial intelligence. Some people use it and it helps them. They are happy. But other people have problems. They struggle. I think it depends on I guess... situation. Different people, different experiences. I well... think we need to understand this.
+
+
+======================================================================
+Пример 12
+Overall: 5.5
+FC: 5.0, LR: 5.5, GRA: 6.0, PR: 5.5
+======================================================================
+Вопрос: What are the challenges of an aging population?
+
+Ответ:
+I think community is important. There are benefits. For example, it helps people. It makes life easier. But there are challenges too. Some people have problems. I think we need to be careful. We need to think about both sides. I think balance is important.
+
+
+======================================================================
+Пример 13
+Overall: 5.5
+FC: 5.0, LR: 6.0, GRA: 6.0, PR: 5.0
+======================================================================
+Вопрос: What is the importance of family in modern society?
+
+Ответ:
+I think demographics is important. There are benefits. For example, it helps people. It makes life easier. But there are challenges too. Some people have problems. I think we need to be careful. We need to think about both sides. I think balance is important.
+
+
+======================================================================
+Пример 14
+Overall: 5.5
+FC: 5.5, LR: 5.0, GRA: 5.5, PR: 6.0
+======================================================================
+Вопрос: How will climate change affect future generations?
+
+Ответ:
+climate change will make weather worse... more storms floods... also sea level rise... cities near ocean will have problems... future people will need to adapt... but we can still reduce damage if we act now
+
+
+======================================================================
+Пример 15
+Overall: 5.5
+FC: 5.0, LR: 6.0, GRA: 6.0, PR: 5.0
+======================================================================
+Вопрос: What role should teachers play in students' lives?
+
+Ответ:
+I think individuals can do something about online learning. People can make choices. They can change their behavior. But also government should help. Society should support. I think both are important. We need individual action. We also need support from society. Both levels matter.
+
+
+======================================================================
+Пример 16
+Overall: 6.5
+FC: 7.0, LR: 7.0, GRA: 6.0, PR: 6.0
+======================================================================
+Вопрос: How can cities become more sustainable?
+
+Ответ:
+I think there are serious concerns regarding artificial intelligence that cannot be ignored. It can lead to unintended consequences, create inequalities, and disrupt existing structures. However, I also recognize that it offers significant potential benefits - improved efficiency, expanded opportunities, and enhanced capabilities. I think the challenge is developing approaches that can mitigate risks while harnessing advantages. This requires careful analysis, stakeholder engagement, and willingness to adjust strategies based on evidence.
+
+
+======================================================================
+Пример 17
+Overall: 6.5
+FC: 6.0, LR: 7.5, GRA: 6.5, PR: 6.5
+======================================================================
+Вопрос: Why do people experience stress?
+
+Ответ:
+I think there are serious concerns regarding social inequality that cannot be ignored. It can lead to unintended consequences, create inequalities, and disrupt existing structures. However, I also recognize that it offers significant potential benefits - improved efficiency, expanded opportunities, and enhanced capabilities. I think the challenge is developing approaches that can mitigate risks while harnessing advantages. This requires careful analysis, stakeholder engagement, and willingness to adjust strategies based on evidence.
+
+
+======================================================================
+Пример 18
+Overall: 6.5
+FC: 6.0, LR: 7.0, GRA: 6.5, PR: 6.5
+======================================================================
+Вопрос: What are the consequences of climate change?
+
+Ответ:
+While renewable energy presents substantial challenges - including potential negative impacts on certain groups and questions about long-term sustainability - I also see considerable benefits. It can increase productivity, create new opportunities, and address existing limitations. I think the most promising path forward involves creating mechanisms that can identify and address problems early while maximizing positive outcomes.
+
+
+======================================================================
+Пример 19
+Overall: 6.5
+FC: 6.0, LR: 7.5, GRA: 6.5, PR: 6.5
+======================================================================
+Вопрос: How have family structures changed?
+
+Ответ:
+I think there are serious concerns regarding parenting that cannot be ignored. It can lead to unintended consequences, create inequalities, and disrupt existing structures. However, I also recognize that it offers significant potential benefits - improved efficiency, expanded opportunities, and enhanced capabilities. I think the challenge is developing approaches that can mitigate risks while harnessing advantages. This requires careful analysis, stakeholder engagement, and willingness to adjust strategies based on evidence.
+
+
+======================================================================
+Пример 20
+Overall: 6.5
+FC: 6.0, LR: 6.0, GRA: 7.0, PR: 7.0
+======================================================================
+Вопрос: Should governments regulate technology companies?
+
+Ответ:
+Looking at real-world applications of cybersecurity, the results are mixed. Some implementations have been highly successful, demonstrating clear benefits and positive impacts. Others have encountered obstacles or produced unintended consequences. I think this diversity of outcomes suggests that success depends on multiple factors - proper planning, adequate resources, stakeholder buy-in, and ability to adapt. I believe we need approaches that can learn from both successes and failures.
+
+
+======================================================================
+Пример 21
+Overall: 7.5
+FC: 8.5, LR: 7.5, GRA: 7.0, PR: 7.5
+======================================================================
+Вопрос: Should animal rights be protected?
+
+Ответ:
+I think public services raises profound questions about how we navigate change in complex systems. The challenges are real and significant - they include potential negative impacts on vulnerable groups, questions about long-term sustainability, and risks of unintended consequences. However, I also see considerable potential for positive transformation. I believe the solution lies in developing nuanced, adaptive approaches that can balance competing priorities, incorporate multiple perspectives, and evolve based on evidence and experience.
+
+
+======================================================================
+Пример 22
+Overall: 7.5
+FC: 7.0, LR: 8.5, GRA: 7.5, PR: 7.5
+======================================================================
+Вопрос: How should we balance privacy and security?
+
+Ответ:
+While social dynamics presents substantial challenges that demand serious attention - including questions of equity, sustainability, and potential unintended consequences - I also recognize its transformative potential. The benefits can be significant: increased efficiency, expanded opportunities, and ability to address complex problems. I think the key is developing sophisticated approaches that can simultaneously address concerns while maximizing benefits. This requires deep understanding of underlying dynamics, engagement with diverse stakeholders, and creation of mechanisms that can adapt and learn.
+
+
+======================================================================
+Пример 23
+Overall: 7.5
+FC: 8.0, LR: 8.0, GRA: 8.0, PR: 7.5
+======================================================================
+Вопрос: How does globalization affect local cultures?
+
+Ответ:
+I think local customs demands integrated approaches that recognize interdependence between individual and collective levels. Personal actions matter - people can make choices that reflect their values and contribute to desired outcomes. Simultaneously, I believe that government, organizations, and institutions play essential roles in creating frameworks, providing resources, and ensuring fairness. I think successful solutions require careful coordination between bottom-up initiatives and top-down structures, with mechanisms for feedback, adaptation, and alignment of interests.
+
+
+======================================================================
+Пример 24
+Overall: 7.5
+FC: 8.0, LR: 7.0, GRA: 8.0, PR: 7.0
+======================================================================
+Вопрос: What are the ethical implications of AI?
+
+Ответ:
+While automation presents substantial challenges that demand serious attention - including questions of equity, sustainability, and potential unintended consequences - I also recognize its transformative potential. The benefits can be significant: increased efficiency, expanded opportunities, and ability to address complex problems. I think the key is developing sophisticated approaches that can simultaneously address concerns while maximizing benefits. This requires deep understanding of underlying dynamics, engagement with diverse stakeholders, and creation of mechanisms that can adapt and learn.
+
+
+======================================================================
+Пример 25
+Overall: 7.5
+FC: 7.0, LR: 8.5, GRA: 7.5, PR: 7.5
+======================================================================
+Вопрос: How has remote work changed employment?
+
+Ответ:
+I think workplace dynamics embodies a fundamental tension in contemporary society - the need to balance innovation and progress with careful consideration of consequences. There are compelling arguments for its benefits, including transformative potential and ability to address longstanding challenges. Simultaneously, we must acknowledge serious concerns about equity, sustainability, and potential disruption. I believe the most promising path forward involves creating adaptive frameworks that can evolve, incorporating diverse perspectives, and maintaining commitment to both innovation and responsibility.
+
+
+======================================================================
+Пример 26
+Overall: 8.0
+FC: 8.0, LR: 8.0, GRA: 8.0, PR: 8.0
+======================================================================
+Вопрос: Do you think governments should limit car usage in cities?
+
+Ответ:
+Personally I believe some level of restriction is necessary especially in densely populated areas. If cities continue prioritizing private cars congestion and pollution will only worsen. That said any restrictions should be accompanied by reliable public transport otherwise people will simply feel punished rather than supported. I think the most effective approach is to gradually reduce car dependency by improving alternatives while implementing restrictions. This way people have viable options and the transition feels fair rather than forced
+
+
+======================================================================
+Пример 27
+Overall: 8.0
+FC: 8.5, LR: 8.0, GRA: 8.0, PR: 7.5
+======================================================================
+Вопрос: How can cities become more sustainable?
+
+Ответ:
+This represents one of the most pressing and complex challenges of our time, requiring us to navigate multiple competing priorities and perspectives. On one hand, automation offers undeniable benefits - the potential for increased efficiency, expanded opportunities, and enhanced quality of life. However, we must also grapple with significant concerns, including potential unintended consequences, questions of equity and access, and the ways in which rapid change can disrupt existing social and economic structures. I think the fundamental challenge is recognizing that simplistic solutions are inadequate - we need approaches that can accommodate complexity, adapt to changing circumstances, and balance multiple legitimate interests. This requires not just technical solutions, but also thoughtful consideration of ethical implications, long-term sustainability, and the ways in which different groups will be affected.
+
+
+======================================================================
+Пример 28
+Overall: 8.0
+FC: 7.5, LR: 9.0, GRA: 8.0, PR: 8.0
+======================================================================
+Вопрос: How has technology affected human relationships?
+
+Ответ:
+I think technological advancement raises profound questions about how we navigate change in complex systems. The challenges are real and significant - they include potential negative impacts on vulnerable groups, questions about long-term sustainability, and risks of unintended consequences. However, I also see considerable potential for positive transformation. I believe the solution lies in developing nuanced, adaptive approaches that can balance competing priorities, incorporate multiple perspectives, and evolve based on evidence and experience.
+
+
+======================================================================
+Пример 29
+Overall: 8.0
+FC: 9.0, LR: 8.0, GRA: 7.5, PR: 8.0
+======================================================================
+Вопрос: Should governments prioritize economic growth or environmental protection?
+
+Ответ:
+While renewable energy presents substantial challenges that demand serious attention - including questions of equity, sustainability, and potential unintended consequences - I also recognize its transformative potential. The benefits can be significant: increased efficiency, expanded opportunities, and ability to address complex problems. I think the key is developing sophisticated approaches that can simultaneously address concerns while maximizing benefits. This requires deep understanding of underlying dynamics, engagement with diverse stakeholders, and creation of mechanisms that can adapt and learn.
+
+
+======================================================================
+Пример 30
+Overall: 8.0
+FC: 7.5, LR: 8.5, GRA: 8.0, PR: 8.0
+======================================================================
+Вопрос: How important is entrepreneurship?
+
+Ответ:
+Examining aging population through lens of concrete examples reveals both remarkable successes and significant challenges. In cases where conditions were favorable, it has produced transformative outcomes - substantial improvements, innovative solutions, and positive change. However, there are also instances where implementation has encountered obstacles or produced mixed results. I think this variation underscores the importance of context-specific understanding. The challenge is developing approaches that can identify key success factors, adapt to different circumstances, and learn systematically from both achievements and setbacks.
+

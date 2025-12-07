@@ -22,6 +22,7 @@ logs/*.txt
 # Data (не коммитим большие CSV)
 *.csv
 !dataset_versions/**/*.csv
+!docs/post_validation_part3.csv
 
 # Jupyter
 .ipynb_checkpoints/
