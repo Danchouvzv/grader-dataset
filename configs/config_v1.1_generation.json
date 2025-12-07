@@ -1,0 +1,32 @@
+{
+  "version": "v1.1",
+  "description": "Full dataset generation with improved templates (v2), error injection linked to subscores, and semantic honesty checks.",
+  "scripts": {
+    "part1": "generate_synthetic_expansion.py (uses improved_generation_v2)",
+    "part2": "generate_part2_expansion.py (uses improved_generation_v2)",
+    "part3": "generate_part3_expansion.py (uses error_injection)"
+  },
+  "random_seed": 42,
+  "targets": {
+    "part1_count": 600,
+    "part2_count": 500,
+    "part3_count": 400
+  },
+  "band_distribution": {
+    "low (3.0-4.5)": 0.20,
+    "medium (5.0-6.5)": 0.50,
+    "high (7.0-8.5)": 0.30
+  },
+  "quality_flags": {
+    "garbage": "overall <= 3.5 or (overall <= 4.0 and len(words) < 5)",
+    "ok_low": "overall > 3.5 and overall <= 4.5",
+    "ok": "overall > 4.5"
+  },
+  "features": {
+    "error_injection": true,
+    "improved_templates": true,
+    "topic_extraction_v2": true,
+    "discourse_markers": true
+  }
+}
+
